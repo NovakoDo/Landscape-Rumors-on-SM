@@ -1,0 +1,54 @@
+id	label	timeset	﻿id	n-quads
+1	Diffusion			Approach
+2	Data Analysis			Approach
+3	Use Case			Approach
+4	Valecha et al.(2013)			Publication
+5	Haiti earthquake			Event
+6	Mendoza et al.(2010)			Publication
+7	Chile earthquake			Event
+8	Starbird et al.(2014)			Publication
+9	Boston Marathon Bombing			Event
+10	MABS			Approach
+11	Modeling			Approach
+12	SEIZ			Approach
+13	SIR			Approach
+14	SI			Approach
+15	SIS			Approach
+16	Nevokee et al.(2007)			Publication
+17	Zhao et al.(2013)			Publication
+18	Jin et al.(2013)			Publication
+19	Detection			Approach
+20	Emerging Rumors			Terminology
+21	Zubiaga et al.(2017)			Project
+22	P.Detection			Approach
+23	Stance Classification			Approach
+24	Veracity Classification			Approach
+25	2-Way Classification			Approach
+26	Qazvinian et al.(2011)			Publication
+27	3-Way Classification			Approach
+28	Lukasik et al.(2015)			Publication
+29	4-Way Classification			Approach
+30	Zubiaga et al.(2016)			Publication
+31	Supporting			Approach
+32	Denying			Approach
+33	Querying			Approach
+34	Commenting			Approach
+35	Feature			Feature
+36	Linguistic			Feature
+37	Time			Feature
+38	Context			Feature
+39	Network			Feature
+40	Content			Feature
+41	Yang et al.(2012)			Publication
+42	Hamidian and Diab (2015)			Publication
+43	Tracking			Approach
+44	Long-Standing Rumors			Terminology
+45	Visualization			Approach
+46	Kwon et al.(2013)			Publication
+47	Zubiaga et al.(2015)			Publication
+49	Sentiment			Feature
+50	Unigram			Feature
+51	Topic			Feature
+52	Social			Feature
+53	User			Feature
+54	Serrano et al.(2015)			Publication

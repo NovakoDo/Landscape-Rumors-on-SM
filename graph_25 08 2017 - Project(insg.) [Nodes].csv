@@ -1,0 +1,33 @@
+id	label	timeset	n-quads
+0	Project		Project
+1	PHEME		Project
+2	Emergent		Project
+3	REVEAL		Project
+4	InVID		Project
+5	RumorLens		Project
+6	RumourFlow		Project
+7	TwitterTrails		Project
+8	OoSMe		Project
+9	Snopes.com		Project
+10	Politifact.com		Project
+11	TruthorFiction.com		Project
+12	NewsTrust.net		Project
+13	FactCheck.org		Project
+14	Detection		Approach
+15	Verification		Approach
+16	Tracking		Approach
+17	Visualization		Approach
+18	Fact-Checking		Approach
+19	Textual Data		Datatype
+20	Memes		Datatype
+21	Video Content		Datatype
+22	Images		Datatype
+23	Media Revealr		Output
+24	Pheme Dashboard		Output
+25	RumorLens Tool		Output
+26	Hoaxy		Output
+27	InVID Service		Output
+28	Real-Time Tracker		Output
+29	Visual Analytics Tool		Output
+30	TwitterTrails Tool		Output
+31	Automatic Process		Approach

@@ -1,0 +1,39 @@
+id	label	timeset	n-quads
+0	Projects		Project
+1	RumorLens		Project
+2	TwitterTrails		Project
+3	RumorFlow		Project
+4	OoSMe		Project
+5	Textual Data		Datatype
+6	Journalism		Topic
+7	Science		Topic
+8	Google		Funder
+9	RumorLens Tool		Output
+10	Detector		Output
+11	ReQ-ReC Retriever		Output
+12	Visualizer		Output
+13	Tweet Retriever		Output
+14	Query Generator		Output
+15	Labelling Interface		Output
+16	Classifier		Output
+17	Zhao et al.(2015)		Publication
+18	Visualization		Approach
+19	Tracking		Approach
+20	The Intersect		Project
+21	Emergent		Project
+22	Snopes.com		Project
+23	Wellesley College		Funder
+24	TwitterTrails Tool		Output
+25	Propagation Graph		Output
+26	Timeline Graph		Output
+27	Retweet & Co-Retweeted Network Graph		Output
+28	Reddit		SM
+29	Dual-view Visualization		Approach
+30	Visual Analytics Tool		Output
+31	Social-science Theories		Approach
+32	Hoaxy		Output
+33	Memes		Datatype
+34	Politifact.com		Project
+35	NewsTrust.net		Project
+36	TruthorFiction.com		Project
+37	FactCheck.otg		Project

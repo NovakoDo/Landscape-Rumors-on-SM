@@ -1,0 +1,33 @@
+id	label	timeset	﻿id	n-quads
+1	Zhao et al.(2015)		1	Publication
+2	enquiry-based approach		2	Approach
+3	Mendoza et al.(2010)		3	Publication
+4	question asking behavior		4	Approach
+5	DTR		5	Classifier
+6	Zubiaga et al.(2016)		6	Publication
+7	context-aware approach		7	Approach
+8	CRF		8	Classifier
+9	aggregation		9	Approach
+10	sequential classifier		10	Classifier
+11	content		11	Feature
+12	social		12	Feature
+13	Ma et al.(2016)		13	Publication
+14	deep learning approach		14	Approach
+15	machine learning approach		15	Approach
+16	time		16	Feature
+17	context		17	Feature
+18	GRU		18	Classifier
+19	RNN-based approach		19	Approach
+20	Luksaik et al.(2016)		20	Publication
+21	HP		21	Classifier
+22	sequence-classification approach		22	Approach
+23	Kwon et al.(2017)		23	Publication
+24	user		24	Feature
+25	language		25	Feature
+26	network		26	Feature
+27	RFC		27	Classifier
+28	Ma et al.(2017)		28	Publication
+29	structure		29	Feature
+30	kernel-based approach		30	Approach
+31	dynamic propagation patterns		31	Approach
+32	PTK		32	Classifier

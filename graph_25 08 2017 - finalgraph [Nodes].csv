@@ -1,0 +1,182 @@
+id	label	timeset	﻿id	n-quads
+0	"Rumor "		0	Terminology
+1	False Rumor		1	Terminology
+2	True Rumor		2	Terminology
+3	Unverified Rumor		3	Terminology
+4	Non-Rumor		4	Terminology
+5	Controversy		5	Terminology
+6	Speculation		6	Terminology
+7	Misinformation		7	Terminology
+8	Disinformation		8	Terminology
+9	Imposter Content		9	Terminology
+10	Fabricated Content		10	Terminology
+11	Manipulted Content		11	Terminology
+12	Misleading Content		12	Terminology
+13	Parody		13	Terminology
+14	False Context		14	Terminology
+15	False Connection		15	Terminology
+16	Hoax		16	Terminology
+17	Fake News		17	Terminology
+18	News		18	Terminology
+19	Gossip		19	Terminology
+20	Distal Gossip		20	Terminology
+21	Proximate Gossip		21	Terminology
+22	Emerging Rumor		22	Terminology
+23	Long-Standing Rumor		23	Terminology
+24	Urban Legend		24	Terminology
+25	Propaganda		25	Terminology
+26	Satire		26	Terminology
+27	Project		27	Project
+28	PHEME		28	Project
+29	Emergent		29	Project
+30	REVEAL		30	Project
+31	InVID		31	Project
+32	RumorLens		32	Project
+33	RumourFlow		33	Project
+34	TwitterTrails		34	Project
+35	OoSMe		35	Project
+36	Snopes.com		36	Project
+37	Politifact.com		37	Project
+38	TruthorFiction.com		38	Project
+39	NewsTrust.net		39	Project
+40	FactCheck.org		40	Project
+41	Detection		41	Approach
+42	Verification		42	Approach
+43	Tracking		43	Approach
+44	Visualization		44	Approach
+45	Fact-Checking		45	Approach
+46	Textual Data		46	Datatype
+47	Memes		47	Datatype
+48	Video Content		48	Datatype
+49	Images		49	Datatype
+50	Media Revealr		50	Output
+51	Pheme Dashboard		51	Output
+52	RumorLens Tool		52	Output
+53	Hoaxy		53	Output
+54	InVID Service		54	Output
+55	Real-Time Tracker		55	Output
+56	Visual Analytics Tool		56	Output
+57	TwitterTrails Tool		57	Output
+58	Automatic Process		58	Approach
+59	Internet Meme		59	Datatype
+60	Journalism		60	Topic
+61	Healthcare		61	Topic
+62	Veracity		62	Approach
+63	Spatio-temporal Data		63	Approach
+64	Hawkes Processes		64	Approach
+65	Machine-Learning		65	Approach
+66	Pheme Dataset		66	Output
+67	Stance Classification		67	Approach
+68	Veracity Classification		68	Approach
+69	Architecture		69	Approach
+70	European Comission		70	Funder
+71	Zubiaga et al.(2016)		71	Publication
+72	Zubiaga et al.(2017)		72	Publication
+73	Lukasik et al.(2016)		73	Publication
+74	CRF		74	Classifier
+75	Manual Process		75	Approach
+76	Discontinued		76	
+77	Real-time Tracker		77	Output
+78	Textual Data		78	Datatype
+79	Columbia University		79	Funder
+80	Detection(Pheme)		80	Approach
+81	Images		81	Datatype
+82	Video content		82	Datatype
+83	Near-duplicte Detection		83	Approach
+84	Media REVEALr		84	Output
+85	Indexing tool		85	Output
+86	Mining tool		86	Output
+87	Real-time Process		87	Approach
+88	Platform		88	Output
+89	Verification Plugin		89	Output
+90	Verification Application		90	Output
+91	InVID Dashboard		91	Output
+92	Broadcast		92	Topic
+93	Verification		93	Approach
+94	Content context aggregation		94	Approach
+95	Textual Data		95	Datatype
+96	Science		96	Topic
+97	Google		97	Funder
+98	Detector		98	Output
+99	ReQ-ReC Retriever		99	Output
+100	Visualizer		100	Output
+101	Tweet Retriever		101	Output
+102	Query Generator		102	Output
+103	Labelling Interface		103	Output
+104	Classifier		104	Output
+105	Zhao et al.(2015)		105	Publication
+106	Visualization		106	Approach
+107	Tracking		107	Approach
+108	The Intersect		108	Project
+109	Wellesley College		109	Funder
+110	Propagation Graph		110	Output
+111	Timeline Graph		111	Output
+112	Retweet & Co-Retweeted Network Graph		112	Output
+113	Reddit		113	SM
+114	Dual-view Visualization		114	Approach
+115	Visual Analytics Tool		115	Output
+116	Social-science Theories		116	Approach
+117	Hoaxy		117	Output
+118	Diffusion		118	Approach
+119	Data Analysis		119	Approach
+120	Use Case		120	Approach
+121	Valecha et al.(2013)		121	Publication
+122	Haiti earthquake		122	Event
+123	Mendoza et al.(2010)		123	Publication
+124	Chile earthquake		124	Event
+125	Starbird et al.(2014)		125	Publication
+126	Boston Marathon Bombing		126	Event
+127	MABS		127	Approach
+128	Modeling		128	Approach
+129	SEIZ		129	Approach
+130	SIR		130	Approach
+131	SI		131	Approach
+132	SIS		132	Approach
+133	Nevokee et al.(2007)		133	Publication
+134	Zhao et al.(2013)		134	Publication
+135	Jin et al.(2013)		135	Publication
+136	2-Way Classification		136	Approach
+137	Qazvinian et al.(2011)		137	Publication
+138	3-Way Classification		138	Approach
+139	Lukasik et al.(2015)		139	Publication
+140	4-Way Classification		140	Approach
+141	Zubiaga et al.(2016b)		141	Publication
+142	Supporting		142	Approach
+143	Denying		143	Approach
+144	Querying		144	Approach
+145	Commenting		145	Approach
+146	Feature		146	Feature
+147	Linguistic		147	Feature
+148	Time		148	Feature
+149	Context		149	Feature
+150	Network		150	Feature
+151	Content		151	Feature
+152	Yang et al.(2012)		152	Publication
+153	Hamidian and Diab (2015)		153	Publication
+154	Kwon et al.(2013)		154	Publication
+155	Zubiaga et al.(2015)		155	Publication
+156	Sentiment		156	Feature
+157	Unigram		157	Feature
+158	Topic		158	Feature
+159	Social		159	Feature
+160	User		160	Feature
+161	Serrano et al.(2015)		161	Publication
+162	enquiry-based approach		162	Approach
+163	question asking behavior		163	Approach
+164	DTR		164	Classifier
+165	context-aware approach		165	Approach
+166	aggregation		166	Approach
+167	sequential classifier		167	Classifier
+168	Ma et al.(2016)		168	Publication
+169	deep learning approach		169	Approach
+170	machine learning approach		170	Approach
+171	GRU		171	Classifier
+172	RNN-based approach		172	Approach
+173	sequence-classification approach		173	Approach
+174	Kwon et al.(2017)		174	Publication
+175	RFC		175	Classifier
+176	Ma et al.(2017)		176	Publication
+177	structure		177	Feature
+178	kernel-based approach		178	Approach
+179	dynamic propagation patterns		179	Approach
+180	PTK		180	Classifier

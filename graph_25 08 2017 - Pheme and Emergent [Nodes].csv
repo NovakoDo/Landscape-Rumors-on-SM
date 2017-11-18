@@ -1,0 +1,28 @@
+id	label	timeset	n-quads
+0	PHEME		Project
+1	Internet Meme		Datatype
+2	Project		Project
+3	Journalism		Topic
+4	Healthcare		Topic
+5	Veracity		Approach
+6	Automatic Process		Approach
+7	Spatio-temporal Data		Approach
+8	Hawkes Processes		Approach
+9	Machine-Learning		Approach
+10	Pheme Dataset		Output
+11	Dashboard		Output
+12	Detection		Approach
+13	Stance Classification		Approach
+14	Veracity Classification		Approach
+15	Architecture		Approach
+16	Emergent		Project
+17	European Comission		Funder
+18	Zubiaga et al.(2016)		Publication
+19	Zubiaga et al.(2017)		Publication
+20	Lukasik et al.(2016)		Publication
+21	CRF		Classifier
+22	Manual Process		Approach
+23	Discontinued		
+24	Real-time Tracker		Output
+25	Textual Data		Datatype
+26	Columbia University		Funder

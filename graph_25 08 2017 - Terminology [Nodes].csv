@@ -1,0 +1,28 @@
+id	label	timeset	﻿id	n-quads
+0	"Rumor "		0	Terminology
+1	False Rumor		1	Terminology
+2	True Rumor		2	Terminology
+3	Unverified Rumor		3	Terminology
+4	Non-Rumor		4	Terminology
+5	Controversy		5	Terminology
+6	Speculation		6	Terminology
+7	Misinformation		7	Terminology
+8	Disinformation		8	Terminology
+9	Imposter Content		9	Terminology
+10	Fabricated Content		10	Terminology
+11	Manipulted Content		11	Terminology
+12	Misleading Content		12	Terminology
+13	Parody		13	Terminology
+14	False Context		14	Terminology
+15	False Connection		15	Terminology
+16	Hoax		16	Terminology
+17	Fake News		17	Terminology
+18	News		18	Terminology
+19	Gossip		19	Terminology
+20	Distal Gossip		20	Terminology
+21	Proximate Gossip		21	Terminology
+22	New Rumor		22	Terminology
+23	Long-Standing Rumor		23	Terminology
+24	Urban Legend		24	Terminology
+25	Propaganda		25	Terminology
+26	Satire		26	Terminology
